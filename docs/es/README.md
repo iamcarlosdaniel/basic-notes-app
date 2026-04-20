@@ -4,12 +4,12 @@ Este repositorio contiene la `Especificación de Requerimientos de Software (SRS
 
 Este diseño ha sido concebido bajo un enfoque agnóstico a la tecnología, garantizando que las definiciones funcionales sean completamente independientes del stack tecnológico, el motor de persistencia o el modelo de despliegue seleccionado para su implementación.
 
-> [!NOTE]
-> This document is also available in its `english version` at [docs/en/README.md](/docs/en/README.md)
-
 > [!IMPORTANT]
 > El contenido de este repositorio se distribuye bajo la `Licencia Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)`.
 > Todos los términos se rigen por lo establecido en el archivo [LICENSE](/LICENSE).
+
+> [!NOTE]
+> This document is also available in its `english version` at [docs/en/README.md](/docs/en/README.md)
 
 ## Índice
 
