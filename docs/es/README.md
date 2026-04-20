@@ -2,11 +2,24 @@
 
 Este repositorio contiene la **Especificación de Requerimientos de Software (SRS)** para una aplicación básica de notas. El objetivo de este documento es establecer una base sólida de reglas de negocio y atributos de calidad, mediante la definición detallada de requerimientos funcionales y no funcionales.
 
-Este diseño ha sido concebido bajo un enfoque agnóstico a la tecnología, garantizando que las definiciones funcionales sean completamente independientes del stack tecnológico, el motor de persistencia o el modelo de despliegue seleccionado para su implementación.
+Este diseño ha sido concebido bajo un enfoque **agnóstico a la tecnología**, garantizando que las definiciones funcionales sean completamente independientes del stack tecnológico, el motor de persistencia o el modelo de despliegue seleccionado para su implementación.
 
 > [!IMPORTANT]
 > El contenido de este repositorio se distribuye bajo la **Licencia Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)**.
 > Todos los términos se rigen por lo establecido en el archivo [LICENSE](/LICENSE).
+
+## Autor
+
+**Carlos Daniel Menchaca Arauz**  
+Ingeniero de Sistemas Informáticos <br />
+Santa Cruz de la Sierra, Bolivia
+
+Sitio web: https://iamcarlosdaniel.com  
+GitHub: https://github.com/iamcarlosdaniel  
+LinkedIn: https://www.linkedin.com/in/iamcarlosdaniel  
+E-mail: contact@iamcarlosdaniel.com
+
+<br />
 
 > [!NOTE]
 > This document is also available in its **english version** at [docs/en/README.md](/docs/en/README.md)
