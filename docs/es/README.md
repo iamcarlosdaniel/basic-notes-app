@@ -1,8 +1,6 @@
 # Aplicación básica de notas
 
-Este repositorio contiene la **Especificación de Requerimientos de Software (SRS)** para una aplicación básica de notas. El objetivo de este documento es establecer una base sólida de reglas de negocio y atributos de calidad, mediante la definición detallada de requerimientos funcionales y no funcionales.
-
-Este diseño ha sido concebido bajo un enfoque **agnóstico a la tecnología**, garantizando que las definiciones funcionales sean completamente independientes del stack tecnológico, el motor de persistencia o el modelo de despliegue seleccionado para su implementación.
+Este repositorio presenta la **Especificación de Requerimientos de Software (SRS)** de una aplicación básica de notas, cuyo propósito es definir de forma clara las reglas de negocio y atributos de calidad mediante requerimientos funcionales y no funcionales, siguiendo un enfoque **agnóstico a la tecnología** e independiente de su implementación.
 
 > [!IMPORTANT]
 > El contenido de este repositorio se distribuye bajo la **Licencia Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)**.
@@ -208,6 +206,8 @@ El sistema deberá proveer un mecanismo para que el usuario autenticado pueda re
 **Criterios de aceptación**
 
 El sistema debe verificar la validez del comprobante de acceso antes de procesar la solicitud de información del perfil.
+
+Se debe validar la propiedad del recurso; si el usuario no tiene permisos sobre la tarea, el sistema debe denegar la consulta.
 
 El sistema debe retornar únicamente los datos autorizados, garantizando la privacidad de información sensible (como contraseñas o hashes de seguridad).
 
