@@ -1,8 +1,6 @@
 # Basic notes app
 
-This repository contains the **Software Requirements Specification (SRS)** for a basic note-taking application. The purpose of this document is to establish a solid foundation of business rules and quality attributes through the detailed definition of functional and non-functional requirements.
-
-This design has been conceived under a **technology-agnostic** approach, ensuring that the functional definitions are completely independent of the technology stack, the persistence engine, or the deployment model selected for its implementation.
+This repository presents the Software Requirements Specification (SRS) for a basic note-taking application, whose purpose is to clearly define business rules and quality attributes through functional and non-functional requirements, following a technology-agnostic approach and remaining independent of its implementation.
 
 > [!IMPORTANT]
 > The content of this repository is distributed under the **Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License (CC BY-NC-SA 4.0)**.
